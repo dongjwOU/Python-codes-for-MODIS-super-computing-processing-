@@ -1,0 +1,34 @@
+Process mod09a1 tile data to generate Vegetation Index, drought, 
+everreen, ocean, snow, cloud, flood products.
+
+Vegetation indices, quality flag and land/ocean mask from multiple tiles
+
+This is used to process all the tiles at a specific 8-day observation.
+
+Input data: HDF
+Functions:
+Calculate vegetation indices,
+Decode quality flag
+Decode ocean flag
+Decode snow flag
+produce drought, evergreen, flood
+
+This use multi cores on servers. Performance is good.
+
+Loop through all the tiles
+
+Output data: geotiff
+
+--------------
+Delong Zhao
+
+Graduate Student
+Department of Botany and Microbiology, College of Arts and Sciences
+Center for Spatial Analysis, College of Atmospheric and Geographic Sciences
+University of Oklahoma
+101 David L. Boren Blvd.
+Norman, Oklahoma 73019-5300
+USA
+Phone:405-219-1111 ;  Fax: 405-3253442;
+Email: zhaodelong@gmail.com;                       Skype:  zhaodelong_ioz
+Websites:  http://remotesensing.ou.edu;  http://eco-epidemiology.ou.edu
