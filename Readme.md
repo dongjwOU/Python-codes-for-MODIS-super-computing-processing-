@@ -44,4 +44,4 @@ Norman, Oklahoma 73019-5300
 USA
 Phone:405-355-3066 
 Email: zhaodelong@gmail.com;                       Skype:  zhaodelong_ioz
-Websites:  http://http://eomf.ou.edu/
+Websites:  http://eomf.ou.edu/
