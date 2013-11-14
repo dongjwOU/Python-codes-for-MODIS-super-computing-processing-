@@ -16,7 +16,6 @@ This is used to process all the tiles at a specific 8-day observation.
 
 The advanced version code use python multi run jobs functioin to run on multi-threads on our supercomputing servers. The global 2000 to 2013 8-days MODIS data can be finished in 168 hours from raw data to final products.
 
-
 Input data: HDF
 Functions:
 Calculate vegetation indices,
@@ -25,11 +24,14 @@ Decode ocean flag
 Decode snow flag
 produce drought, evergreen, flood
 
-This use multi cores on servers. Performance is good.
+This use 8x16x10 cores on our high performence servers. 
 
 Loop through all the tiles
 
-Output data: geotiff
+Output data: geotiff of different products.
+
+
+
 
 Delong Zhao
 
